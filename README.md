@@ -155,12 +155,12 @@ const joseAntonio = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img width="25%" src="https://github-readme-stats.vercel.app/api?username=jsrivero22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=jsrivero22&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jsrivero22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jsrivero22&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsrivero22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&hide=hack,swift,kotlin,objective-c" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsrivero22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&hide=hack,swift,kotlin,objective-c" alt="Top Languages"/>
 </div>
 
 ---
