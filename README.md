@@ -68,7 +68,7 @@ const joseAntonio = {
 
 <div align="center">
 
-### 🔥 **Tecnologías Principales** (Nivel Experto)
+### 🔥 **Tecnologías Principales** (Nivel Medio a Experto)
 
 <table>
 <tr>
